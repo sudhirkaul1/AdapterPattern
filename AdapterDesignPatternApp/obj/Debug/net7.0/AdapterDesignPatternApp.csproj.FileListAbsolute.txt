@@ -1,0 +1,15 @@
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\bin\Debug\net7.0\AdapterDesignPatternApp.exe
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\bin\Debug\net7.0\AdapterDesignPatternApp.deps.json
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\bin\Debug\net7.0\AdapterDesignPatternApp.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\bin\Debug\net7.0\AdapterDesignPatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\bin\Debug\net7.0\AdapterDesignPatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\refint\AdapterDesignPatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\AdapterDesignPatternApp.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\AdapterPattern\AdapterDesignPatternApp\obj\Debug\net7.0\ref\AdapterDesignPatternApp.dll
